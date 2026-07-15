@@ -40,7 +40,7 @@ export const Route = createFileRoute("/")({
           "An ultra-luxury skincare house crafting rituals from pure botanicals and clinical science. Discover Aurelia's radiance collection.",
       },
       { property: "og:title", content: "Aurelia Skin — Pure Science. Timeless Beauty." },
-      { property: "og:description", content: "Luxury skincare powered by nature and science." },
+      { property: "og:description", content: "An ultra-luxury skincare house crafting rituals from pure botanicals and clinical science. Discover Aurelia's radiance collection." },
       { property: "og:url", content: "/" },
     ],
     links: [{ rel: "canonical", href: "/" }],
